@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/build/intermediates/res/merged/debug/layout/screen_gridcell.xml",
+        "source": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/src/main/res/layout/screen_gridcell.xml"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/build/intermediates/res/merged/debug/layout/my_calendar_view.xml",
+        "source": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/src/main/res/layout/my_calendar_view.xml"
+    }
+]

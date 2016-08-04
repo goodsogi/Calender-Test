@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/build/intermediates/res/merged/debug/drawable/cal_left_arrow_on.png",
+        "source": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/src/main/res/drawable/cal_left_arrow_on.png"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/build/intermediates/res/merged/debug/drawable/calendar_bg_orange.png",
+        "source": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/src/main/res/drawable/calendar_bg_orange.png"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/build/intermediates/res/merged/debug/drawable/calendar_days.png",
+        "source": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/src/main/res/drawable/calendar_days.png"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/build/intermediates/res/merged/debug/drawable/calendar_view.png",
+        "source": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/src/main/res/drawable/calendar_view.png"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/build/intermediates/res/merged/debug/drawable/topbar.png",
+        "source": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/src/main/res/drawable/topbar.png"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/build/intermediates/res/merged/debug/drawable/calendar_top_header.png",
+        "source": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/src/main/res/drawable/calendar_top_header.png"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/build/intermediates/res/merged/debug/drawable/cal_left_arrow_off.png",
+        "source": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/src/main/res/drawable/cal_left_arrow_off.png"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/build/intermediates/res/merged/debug/drawable/calendar_button_selector.xml",
+        "source": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/src/main/res/drawable/calendar_button_selector.xml"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/build/intermediates/res/merged/debug/drawable/calendar_centralheader.png",
+        "source": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/src/main/res/drawable/calendar_centralheader.png"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/build/intermediates/res/merged/debug/drawable/calendar_left_arrow_selector.xml",
+        "source": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/src/main/res/drawable/calendar_left_arrow_selector.xml"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/build/intermediates/res/merged/debug/drawable/calendar_right_arrow_selector.xml",
+        "source": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/src/main/res/drawable/calendar_right_arrow_selector.xml"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/build/intermediates/res/merged/debug/drawable/plus.png",
+        "source": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/src/main/res/drawable/plus.png"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/build/intermediates/res/merged/debug/drawable/calendar_tile.png",
+        "source": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/src/main/res/drawable/calendar_tile.png"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/build/intermediates/res/merged/debug/drawable/calendar_tile_small.png",
+        "source": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/src/main/res/drawable/calendar_tile_small.png"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/build/intermediates/res/merged/debug/drawable/meenu.png",
+        "source": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/src/main/res/drawable/meenu.png"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/build/intermediates/res/merged/debug/drawable/cal_right_arrow_off.png",
+        "source": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/src/main/res/drawable/cal_right_arrow_off.png"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/build/intermediates/res/merged/debug/drawable/cal_right_arrow_on.png",
+        "source": "/home/johnny/AndroidStudioProjects/CustomCalenderAndroid/app/src/main/res/drawable/cal_right_arrow_on.png"
+    }
+]
